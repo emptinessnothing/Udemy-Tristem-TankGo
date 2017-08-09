@@ -1,0 +1,3 @@
+C:\Unreal Projects\TankGo\GameAssets\Source\GameAssets\GameAssets.Build.cs
+C:\Unreal Projects\TankGo\GameAssets\Source\GameAssets.Target.cs
+C:\Unreal Projects\TankGo\GameAssets\Source\GameAssetsEditor.Target.cs
